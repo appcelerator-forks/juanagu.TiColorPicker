@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: ticolorpicker
+author: Juan Ignacio Agu
+license: Apache 2.0
+copyright: Copyright (c) Marten Gajda 2014  
+
+# these should not be edited
+name: ticolorpicker
+moduleid: ti.org.dmfs.android.colorpicker
+guid: 2a94792b-0465-4153-9d4d-de5335a4de48
+platform: android
+minsdk: 3.5.1.GA
